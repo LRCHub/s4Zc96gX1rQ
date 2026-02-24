@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "feel like / Eve (Cover) ver.Sou",
+  "base_artist": "Sou",
+  "createdAt": "2026-02-24T09:36:00.868733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Like This",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/01_Feel_Like_This_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel Like",
+      "artist": "YBN Nahmir",
+      "has_synced": true,
+      "path": "select/02_Feel_Like_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel Like",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/03_Feel_Like_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Feel Like a Wog",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/04_I_Feel_Like_a_Wog_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Feel Like A Wog",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/05_I_Feel_Like_A_Wog_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel Like Change",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/06_Feel_Like_Change_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(When You Feel Like You're In Love) Don't Just Stand There",
+      "artist": "Carl Smith",
+      "has_synced": false,
+      "path": "select/07_(When_You_Feel_Like_You're_In_Love)_Don't_Just_Stand_There_Carl_Smith.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Man! I Feel Like A Woman!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/08_Man!_I_Feel_Like_A_Woman!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Gonna Feel Like That Again",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/09_Never_Gonna_Feel_Like_That_Again_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Feel Like Dynamite",
+      "artist": "King Floyd",
+      "has_synced": false,
+      "path": "select/10_I_Feel_Like_Dynamite_King_Floyd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Feel Like Dynamite",
+      "artist": "King Floyd",
+      "has_synced": true,
+      "path": "select/11_I_Feel_Like_Dynamite_King_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Feel Like Going Home",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/12_I_Feel_Like_Going_Home_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What It Feel Like",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/13_What_It_Feel_Like_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Feel Like Going Home",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/14_I_Feel_Like_Going_Home_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Feel Like Going Home",
+      "artist": "Charlie Rich",
+      "has_synced": false,
+      "path": "select/15_I_Feel_Like_Going_Home_Charlie_Rich.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do You Feel Like I Feel (Single Edit)",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/16_Do_You_Feel_Like_I_Feel_(Single_Edit)_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Do You Feel Like I Feel?",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/17_Do_You_Feel_Like_I_Feel_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel Like Jumping",
+      "artist": "SOULHEAD",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_Like_Jumping_SOULHEAD.txt"
+    }
+  ]
+}
