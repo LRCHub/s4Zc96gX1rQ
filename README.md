@@ -1,0 +1,46 @@
+# Sou – feel like / Eve (Cover) ver.Sou
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+宙に舞い上がり
+白い太陽に照らされて輝きだす
+I feel like jumping
+Feel like jumping
+隣の君に気付かれないように隠す速くなる鼓動
+今よりもっと君に近づきたいから
+ねぇtell me what you want
+Show me your everything
+誰も知らない場所へ私を連れて行ってよ
+Show me vour everything
+Take me to the place I've never been
+Baby Come on!
+[HOOK]
+どこまでも君となら
+見たことない場所でも
+I'll be there
+君がいつもそばにいることが大切だから
+Take me there
+誰にも見せたことのない顔
+私だけにいっぱい見せてよ
+まだ真っ白な秘密の場所を私だけに教えて
+Show me inside of you
+Show me your everything
+誰も知らない声を私だけに聞かせて
+Show me your everything
+I wanna hear your voice I've never heard
+Baby Come on!
+[HOOK]
+Feel like jumping
+高揚するTension
+どこにいても見えるようにEverybody stand up
+And Put your hands up!Put your hands up!
+高く高く上にPush your air's up!
+LoopするEverydayに終わりを
+明日はどこにいる？なんてNobody knows
+No matter what coming through your life goes
+とりあえず前へ前へMoving on
+止まらずにMoving on
+Stand up all my people!
+[HOOK]
+```
